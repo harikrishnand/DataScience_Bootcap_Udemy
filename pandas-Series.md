@@ -15,9 +15,13 @@ pandas.Series(data=None, index=None, dtype=None, name=None, copy=False, fastpath
 ```
 
 `data`  : dcit,array or scaler value
+
 `index` : array-like or range. Should be of same size as the data.Defaults to Rangearray(0,1,2..n)
+
 `dtype` : numpy.dtype
+
 `name`  : name for the series
+
 
 ### Creating Series in different ways:
 
